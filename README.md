@@ -8,8 +8,7 @@
 <img src="https://img.shields.io/badge/Experiment-G0~G4%20Ablation-teal" alt="G0-G4 Ablation Workflow">
 <img src="https://img.shields.io/badge/Data-Synthetic%20Demo-lightgrey" alt="Synthetic Demonstration Data">
 </p>
-<img align="right" src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="220" style="vertical-align:middle;">
-# OP-RAG: Method Workflow Reproducibility Package 
+# OP-RAG: Method Workflow Reproducibility Package <img align="right" src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="220" style="vertical-align:middle;">
 
 A compact, research-only implementation of **Osteoporosis Prescription Retrieval-Augmented Generation (OP-RAG)**. The workflow evaluates a clinician-provided traditional Chinese medicine (TCM) regimen through three structured knowledge layers:
 
