@@ -1,15 +1,24 @@
-<p align="left">
-<img src="https://img.shields.io/github/license/aaah-min/OP-RAG-open?color=blue&label=License" alt="MIT License">
-<img src="https://img.shields.io/badge/Python-3.11-brightgreen" alt="Python 3.11">
-<img src="https://img.shields.io/badge/scikit-learn-1.5.2-orange" alt="scikit-learn 1.5.2">
-<img src="https://img.shields.io/github/stars/aaah-min/OP-RAG-open?style=flat&color=gold" alt="GitHub Stars">
-<img src="https://img.shields.io/badge/Model-Qwen--Plus-red" alt="Qwen-Plus">
-<img src="https://img.shields.io/badge/Field-TCM%20AI-magenta" alt="TCM AI">
-<img src="https://img.shields.io/badge/Experiment-G0~G4%20Ablation-teal" alt="G0-G4 Ablation Workflow">
-<img src="https://img.shields.io/badge/Data-Synthetic%20Demo-lightgrey" alt="Synthetic Demonstration Data">
-</p>
+<!-- 徽章+Logo同行布局：徽章靠左，Logo贴右上角 -->
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <div>
+    <img src="https://img.shields.io/github/license/aaah-min/OP-RAG-open?color=blue&label=License" alt="MIT License">
+    <img src="https://img.shields.io/badge/Python-3.11-brightgreen" alt="Python 3.11">
+    <img src="https://img.shields.io/badge/scikit-learn-1.5.2-orange" alt="scikit-learn 1.5.2">
+    <img src="https://img.shields.io/github/stars/aaah-min/OP-RAG-open?style=flat&color=gold" alt="GitHub Stars">
+    <img src="https://img.shields.io/badge/Model-Qwen--Plus-red" alt="Qwen-Plus">
+    <img src="https://img.shields.io/badge/Field-TCM%20AI-magenta" alt="TCM AI">
+    <img src="https://img.shields.io/badge/Experiment-G0~G4%20Ablation-teal" alt="G0-G4 Ablation Workflow">
+    <img src="https://img.shields.io/badge/Data-Synthetic%20Demo-lightgrey" alt="Synthetic Demonstration Data">
+  </div>
 
-# OP-RAG: Method Workflow Reproducibility Package <img align="right" src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="220" style="vertical-align:middle;">
+  <div>
+    <img src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="220">
+  </div>
+</div>
+
+
+
+# OP-RAG: Method Workflow Reproducibility Package
 
 A compact, research-only implementation of **Osteoporosis Prescription Retrieval-Augmented Generation (OP-RAG)**. The workflow evaluates a clinician-provided traditional Chinese medicine (TCM) regimen through three structured knowledge layers:
 
