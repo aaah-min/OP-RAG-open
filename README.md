@@ -10,7 +10,7 @@
 </p>
 
 <!-- 关键：align="right" 让图片浮动到右侧，和下面一级标题同一水平线 -->
-<img align="right" src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="150">
+<img align="right" src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="240">
 
 # OP-RAG: Method Workflow Reproducibility Package
 
