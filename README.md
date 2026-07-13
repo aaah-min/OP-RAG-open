@@ -12,14 +12,13 @@
   </div>
   <!-- Logo固定在徽章行最右侧，宽度220可微调 -->
   <div>
-    <img src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="200">
+    <img src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="220">
   </div>
 </div>
 
 <!-- 空一行，满足标题上方留白需求 -->
 
 # OP-RAG: Method Workflow Reproducibility Package
-
 A compact, research-only implementation of **Osteoporosis Prescription Retrieval-Augmented Generation (OP-RAG)**. The workflow evaluates a clinician-provided traditional Chinese medicine (TCM) regimen through three structured knowledge layers:
 
 1. **Syndrome layer**: standardized TCM syndrome evidence.
