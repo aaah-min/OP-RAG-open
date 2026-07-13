@@ -8,9 +8,11 @@
   <img src="https://img.shields.io/badge/Experiment-G0--G4%20Ablation-teal" alt="G0-G4 Ablation Workflow">
   <img src="https://img.shields.io/badge/Data-Synthetic%20Demo-lightgrey" alt="Synthetic Demonstration Data">
 </p>
-<p align="center">
-  <img src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="200">
-</p>
+</div>
+  <div>
+    <img src="assets/13428411883569884.png" alt="Osteoporosis TCM Evaluation logo" width="300">
+  </div>
+</div>
 
 # OP-RAG: Method Workflow Reproducibility Package
 
